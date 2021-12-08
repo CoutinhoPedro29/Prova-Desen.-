@@ -1,0 +1,5 @@
+Create table jogador
+(nome varchar(20),
+ senha varchar(20),
+ score intenger()
+ );
